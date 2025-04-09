@@ -35,7 +35,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
 
         .login-container {
-            background-color: #6F5495;
+            background-color: #88AADD;
             padding: 20px;
             text-align: center;
             width: 300px;
@@ -55,7 +55,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
 
         button {
-            background-color: #BF89BB;
+            background-color: #91D9F0;
             color: black;
             border: none;
             padding: 10px;
@@ -64,7 +64,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         }
 
         button:hover {
-            background-color: #ABA6D1;
+            background-color: rgb(84, 108, 145);
         }
     </style>
 </head>
